@@ -1,4 +1,4 @@
-# web-container-application
+# Project: Deploy Webapp with Kubernetes on Azure
 Coursera Guide Project Web Application Template
 
 ![Alt Image text](https://github.com/AndreBluhm/Project_Webapp-Kubernetes-Azure/blob/main/Coursera_Deploy-a-Web-Application-in-Azure-Kubernetes-Service.png?raw=true)
